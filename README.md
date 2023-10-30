@@ -9,3 +9,9 @@ using Pandas library in Python and proceeded to perform Exploratory Data Analysi
 The folder contains the Data Analysis and ML projects, Taniya performed during her time at Cranfield University pursuing masters in Applied Bioinformatics (a subject similar to Data Sceince).
 
 ### Exploratory Data Analysis
+
+In this module, Taniya had to perform Exploratory Data Analysis (EDA) on given files. She had to perform tasks like ANOVA, PCA, different smoothing techniques, create histograms to visualise the data, create different plots for EDA. In her reoprt, she had to interpret all the graph she had produced with appropiate reasoning.
+
+### Machine_Learning_for_Metabolomics
+
+
