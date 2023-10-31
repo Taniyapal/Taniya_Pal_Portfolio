@@ -16,4 +16,10 @@ In this project, Taniya had to perform Exploratory Data Analysis (EDA) on given 
 
 The project required to assess the performance of machine learning models such as classification model and regression model. She had to compare the perform of various machine learning algorithms such as KNN, SVM, Random Forest. the performance metrics of the models can be found on the report file.
 
+## Tableau_Workbook_For_Data Visualisation
+
+Contains Data Visualisation Charts with rough data. The workbook contains different kinds of charts such as Funnel Chart, Donut Chart, Pie Chart, Bar Chart etc made with by analysing the rough data. It showcases Taniya's Data Visulisation skill using Tableau.
+
+
+
 
