@@ -1,5 +1,5 @@
 # Taniya_Pal_Portfolio
-Highlights of Data Analysis work done by Taniya Pal.
+Highlights of Data Analysis and Data Science work done by Taniya Pal.
 
 ## HR_Attrition Project
 Contains a Jupyter notebook and a .csv file. The jupyter notebook highlights the steps Taniya performed to analyse the .csv file "HR_Employee_Attrition_Data.csv". Taniya performed intial preprocessing steps
@@ -19,6 +19,9 @@ The project required to assess the performance of machine learning models such a
 ## Tableau_Workbook_For_Data Visualisation
 
 Contains Data Visualisation Charts with rough data. The workbook contains different kinds of charts such as Funnel Chart, Donut Chart, Pie Chart, Bar Chart etc made with by analysing the rough data. It showcases Taniya's Data Visulisation skill using Tableau.
+
+## Book Recommendation System
+Developed a book recommendation system from a dataset downloaded from Kaggle.
 
 
 
